@@ -22,4 +22,4 @@ L - Base-Kick<br>
 <br>
 <br>
 ## Screenshots
-<img src="https://i.imgur.com/GVpF12J.png" alt="Drum Kit Website"></img> 
+<img src="https://i.imgur.com/eNZRE2a.png" alt="Drum Kit Website"></img> 
